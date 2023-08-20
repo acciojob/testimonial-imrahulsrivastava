@@ -13,7 +13,11 @@
   min-width: fit-content;
 }
 
-footer {
+.left {
+	text-align: left;
+}
+
+p {
   text-align: right;
   font-style: italic;
 }
